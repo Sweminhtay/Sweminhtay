@@ -1,0 +1,48 @@
+#include<stdio.h>
+#include<conion.h>
+#include<process>//system
+int main()
+{
+int iAns=0;
+system("cls")
+printf("Photo View\n");
+printf("By---swe min htay");
+printf("======================\n")
+printf("1-My Photo\n");
+printf("2-My Fimaily\n");
+printf("3-My Love\n");
+printf("4-My friend\n");
+prihtf("5-Exit\n");
+printf("Please Chose use to one:\n");
+scanf("%d",&iAns);
+if (iAns==1)
+{
+system("ko mark htar tal file ko cop pay par ***\\**");
+_geatch();
+return main();
+}
+if(iAns==2)
+{
+system("ko mark htar tal file ko cop pay par ***\\**");
+_geatch();
+return main();
+}
+if (iAns==3)
+system("ko mark htar tal file ko cop pay par ***\\**");
+_geacth();
+teturn main();
+}
+if(iAns==4)
+system("ko mark htar tal file ko cop pay par ***\\**");
+_geatch();
+retutn main();
+}
+if(iAns==6)
+{
+printf("Thank You For use\n");
+_geatch
+exit(0);
+}
+_geatch();
+return 0;
+}
